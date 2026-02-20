@@ -42,7 +42,7 @@ A single, unified web application that provides:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 | Technology       | Purpose                        |
@@ -146,6 +146,6 @@ A single, unified web application that provides:
 
 ---
 
-## 🏗 Architecture
+##  Architecture
 
 ### High-Level Architecture
